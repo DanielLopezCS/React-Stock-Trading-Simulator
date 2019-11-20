@@ -27,7 +27,6 @@ Functionality:
   </br>
   *<i> Table pagination/select/sort/search<i> 
  </br>
- </br>
   *<i> View Poll Archive</i>
   </br>
    *<i>Vite Poll Showcase</i>
