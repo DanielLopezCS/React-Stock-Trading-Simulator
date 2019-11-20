@@ -1,0 +1,21 @@
+.scrollbar
+{
+
+	background: #F5F5F5;
+	overflow-y: scroll;
+}
+
+
+#style-2::-webkit-scrollbar
+{
+
+	background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color:#03fcdf;
+}
+
