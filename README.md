@@ -10,7 +10,6 @@ Tech Stack:
   </br>
   *<i> Material UI <i> 
  </br>
- </br>
   *<i> D3 Charts </i>
   </br>
   *<i> React Table </i>
